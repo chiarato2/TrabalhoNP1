@@ -1,2 +1,2 @@
 # TrabalhoNP1
-Trabalho NP1 - Fila de processos - Redes
+Trabalho NP1 - Fila de processos - Arquitetura De Computadores
